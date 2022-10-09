@@ -32,7 +32,7 @@ global.myweb = 't.me/LewdRi'
 global.packname = 'BPM Official'
 global.author = 'BPM Official'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['#']
 global.sp = '⭔'
 global.mess = {
     success: 'Yatta Onii-chan ✓',

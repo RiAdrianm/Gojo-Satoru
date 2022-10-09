@@ -703,9 +703,6 @@ if (q.includes('--help')) return reply(examkosong)
  }
  break
 	case 'gasken' :
-    if (isBan) return reply(mess.banned)	 			
-    if (isBanChat) return reply(mess.bangc)
-    if (!AntiNsfw) return reply(mess.nonsfw)
         reply(`--`)
     break
 		
